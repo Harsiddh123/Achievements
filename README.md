@@ -2,5 +2,5 @@
 
 Repo containing personal files
 
-# Owner
+## Owner
 Harsiddh Kalariya (harsiddhkalariya636@gmail.com)
